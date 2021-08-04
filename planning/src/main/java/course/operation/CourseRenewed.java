@@ -16,3 +16,4 @@ public class CourseRenewed extends AbstractEvent {
         this.id = id;
     }
 }
+

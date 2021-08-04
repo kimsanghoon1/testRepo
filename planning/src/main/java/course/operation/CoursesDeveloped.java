@@ -40,3 +40,4 @@ public class CoursesDeveloped extends AbstractEvent {
         this.minEnrollment = minEnrollment;
     }
 }
+
