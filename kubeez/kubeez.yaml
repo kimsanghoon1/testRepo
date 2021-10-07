@@ -2,9 +2,9 @@
 apiVersion: "apps/v1"
 kind: "Deployment"
 metadata: 
-  name: "nginx"
+  name: "nginx4"
   labels: 
-    app: "nginx"
+    app: "nginx4"
 spec: 
   selector: 
     matchLabels: 
